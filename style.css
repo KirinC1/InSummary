@@ -1,0 +1,25 @@
+.title
+{
+    text-align: center;
+    margin: auto;
+    font-size: 32px;
+    font-size: 2vh;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.summary
+{
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    font-size: 2vh;
+    font-size: 1vw;
+    width: 22%;
+    font-family: 'Assistant', sans-serif;}
+
+body
+{
+    text-align: center;
+    background: rgb(245,247,250);
+    background: radial-gradient(circle, rgba(245,247,250,1) 0%, rgba(195,207,226,1) 100%); 
+}
